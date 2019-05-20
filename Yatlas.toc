@@ -6,6 +6,13 @@
 ## X-LastChangedDate: $LastChangedDate: 2006-08-24 09:10:28 -0600 (Thu, 24 Aug 2006) $
 ## OptionalDeps: MapNotes, Gatherer, myAddOns, CT_MapMod
 ## SavedVariables: YatlasOptions
+## Dependencies:
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+libs\LibDBIcon\LibDBIcon-1.0.lua
+
 l10n.lua
 l10n.deDE.lua
 l10n.zhCN.lua
@@ -15,8 +22,8 @@ mapdb.deDE.lua
 mapdb.zhCN.lua
 Points.lua
 Yatlas.lua
+YatlasIcon.lua
 Templates.xml
 Yatlas.xml
 sets\index.xml
 OptionsFrame.xml
-YatlasButton.xml
