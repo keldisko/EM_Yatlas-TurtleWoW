@@ -12,6 +12,8 @@ To install the patch-s.mpq put it in your "T-WOW install Directory"/Data folder 
 
 Download patch-s.mpq here - https://drive.google.com/file/d/1lJCpBVT6T5f8LnnoLsLqK1nfjeyaSXK-/view?usp=drive_link
 
+You can also use the patch-s.mpq without the addon to update the minimaps in your game.
+
 ===============
 Known Iseeues - moving the map too fast will lag the game 
               - one lua error at game startup 
