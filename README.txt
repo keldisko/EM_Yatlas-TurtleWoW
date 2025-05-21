@@ -1,6 +1,8 @@
 Yatlas provides a minimap-based map of the world (reasonably high detail).
 This addon is no-more supported by the initial developer as such any bugs or other issues are not fixable for now.
 
+[img]https://files.catbox.moe/dltmau.png[/img]
+
 
 !This Fork is for the Turtle WoW Server only and requires a mod - patch-s.mpq to work as intended.!
 !This should change with Turtle WoW 1.18 patch release in the future - if this addon wont load new 1.18 zones maps please delete the patch-s.mpq file for your data folder.!
