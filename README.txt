@@ -1,4 +1,18 @@
 Yatlas provides a minimap-based map of the world (reasonably high detail).
+This addon is no-more supported by the initial developer as such any bugs or other issues are not fixable for now.
+
+
+This Fork is For Turtle WoW Server only and requires a mod - patch-s.mpq to work as intended.
+This should chnage with 1.18 patch release in the future. 
+
+Download patch-s.mpq here - https://drive.google.com/drive/folders/1jr3VwezXzreZXZoqglrfuWxaWwp0lv-C
+
+To install the addon use the "+ Add new addon" function in Turtle WoW Launcher or download it in release tab and extract the .7z in your "T-WOW install Directory"/Interface/AddOns folder.
+To install the patch-s.mpq put it in your "T-WOW install Directory"/Data folder and make sure it's enabled in the Turtle WoW launcher Mods tab.
+
+
+
+
 
 There are two different modes:
 
@@ -30,6 +44,4 @@ menu, or use the /bigyatlas command.
 
 If you have CTMapMod, Gatherer or MapNotes installed, it will shows
 points from these addons as well.
-
-There is a FAQ available at http://endif.cjb.net/wowui/wiki/Yatlas/FAQ
 
