@@ -5,7 +5,7 @@ This addon is no-more supported by the initial developer as such any bugs or oth
 This Fork is For Turtle WoW Server only and requires a mod - patch-s.mpq to work as intended.
 This should chnage with 1.18 patch release in the future. 
 
-Download patch-s.mpq here - hhttps://drive.google.com/file/d/1lJCpBVT6T5f8LnnoLsLqK1nfjeyaSXK-/view?usp=drive_link
+Download patch-s.mpq here - https://drive.google.com/file/d/1lJCpBVT6T5f8LnnoLsLqK1nfjeyaSXK-/view?usp=drive_link
 
 To install the addon use the "+ Add new addon" function in Turtle WoW Launcher or download it in release tab and extract the .7z in your "T-WOW install Directory"/Interface/AddOns folder.
 To install the patch-s.mpq put it in your "T-WOW install Directory"/Data folder and make sure it's enabled in the Turtle WoW launcher Mods tab.
