@@ -14,6 +14,7 @@ Download patch-s.mpq here - https://drive.google.com/file/d/1lJCpBVT6T5f8LnnoLsL
 
 ===============
 Known Iseeues - moving the map too fast will lag the game 
+              - one lua error at game startup 
 
 
 
