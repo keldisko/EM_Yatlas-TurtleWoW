@@ -6,7 +6,7 @@ This addon is no-more supported by the initial developer as such any bugs or oth
 !This should chnage with Turtle WoW 1.18 patch release in the future - if this addon wont load new zones maps please delete the patch-s.mpq file for your data folder.!
 
 
-To install the addon use the "+ Add new addon" function in Turtle WoW Launcher or download it in release tab and extract the .7z in your "T-WOW install Directory"/Interface/AddOns folder.
+To install the addon use the "+ Add new addon" function in Turtle WoW Launcher or download it in release tab and extract the .zip file in your "T-WOW install Directory"/Interface/AddOns folder.
 
 To install the patch-s.mpq put it in your "T-WOW install Directory"/Data folder and make sure it's enabled in the Turtle WoW launcher Mods tab.
 
