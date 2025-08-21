@@ -8,11 +8,9 @@ This addon is no-more supported by the initial developer as such any bugs or oth
 
 To install the addon use the "+ Add new addon" function in Turtle WoW Launcher or download it in release tab and extract the .zip file in your "T-WOW install Directory"/Interface/AddOns folder.
 
-To install the patch-s.mpq put it in your "T-WOW install Directory"/Data folder and make sure it's enabled in the Turtle WoW launcher Mods tab.
 
-Download patch-s.mpq here - https://drive.google.com/file/d/1lJCpBVT6T5f8LnnoLsLqK1nfjeyaSXK-/view?usp=drive_link
 
-You can also use the patch-s.mpq without the addon to update the minimaps in your game.
+
 
 ===============
 Known Iseeues - moving the map too fast will lag the game 
